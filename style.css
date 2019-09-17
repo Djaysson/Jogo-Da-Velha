@@ -1,0 +1,69 @@
+/*style fundo da tela*/
+#imgvelha{
+    background: #cedfdf3d url("imagem/velha.jpg");
+    background-repeat: no-repeat;
+    background-position:inherit;
+}
+
+/*style de amostra do jogador X ou O */
+#mostra{
+    margin: auto;
+    margin-top: 40px;
+    width: 252px; 
+    height: 80px;
+
+}
+h1{
+    text-align: center;
+    font-family: fantasy;
+    font-size: 50px;
+    margin-right: 10px;
+}
+
+
+h2{
+    float: left;
+    font-size: 27px;
+    font-family: initial;
+    margin-right: 10px;
+}
+
+
+img{
+    border: 0;
+    height: 50px;
+    width: 50px;
+}
+
+
+
+/*style do tabuleiro*/
+
+.local{
+   width: 80px;
+   height: 60px;
+   border: 2px solid  black;  
+   float: left;
+   text-align: center;
+   padding-top: 10px;
+}
+.tabuleiro{
+    width:252px;
+    margin: auto;
+}
+
+/*style do botao*/
+
+#botao{
+    width: 129px;
+    height: 60px;
+    margin: 15px 0px 0px 64px;
+   background: chocolate;
+   font-family: fantasy;
+    font-size: 27px;
+}
+
+
+
+
+
